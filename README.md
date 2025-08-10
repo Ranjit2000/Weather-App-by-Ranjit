@@ -27,17 +27,6 @@ It fetches real-time weather data using a public weather API and displays temper
    ```
 3. Open `index.html` in your browser.
 
-## 🔑 API Key Setup
-1. Sign up at [OpenWeatherMap](https://openweathermap.org/api) to get your free API key.
-2. In `script.js`, replace:
-   ```javascript
-   const apiKey = "YOUR_API_KEY";
-   ```
-   with your actual API key.
-
-## 📸 Screenshots
-![Weather App Screenshot](screenshot.png)
-
 ## 🚀 Live Demo
 [Click here to view the live app](https://weather-app-by-ranjit.netlify.app/)
 
