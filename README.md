@@ -39,7 +39,7 @@ It fetches real-time weather data using a public weather API and displays temper
 ![Weather App Screenshot](screenshot.png)
 
 ## 🚀 Live Demo
-[Click here to view the live app](https://your-deployed-link.com)
+[Click here to view the live app](https://weather-app-by-ranjit.netlify.app/)
 
 ## 📜 License
 This project is licensed under the MIT License.
